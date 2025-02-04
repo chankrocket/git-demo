@@ -13,4 +13,4 @@ hello git
 11111111111111111111111
 insert by lhc
 add by hsp
-update by hsp
+delete by hsp
